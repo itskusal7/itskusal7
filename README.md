@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Language
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
 </p>
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch and Scikit-learn"/>
 </p>
 
-### Tools & Development
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=flask,git,github,vscode" alt="Flask, Git, GitHub and VS Code"/>
 </p>
@@ -74,7 +74,7 @@
 | AI-Powered Meeting Summarizer | NLP / Generative AI |
 | Deepfake Image Detection | Deep Learning / Computer Vision |
 
-*Detailed project documentation and source code is added.*
+*Project repositories and detailed documentation are coming soon.*
 
 ---
 
