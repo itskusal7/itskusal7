@@ -43,3 +43,54 @@
 
 `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
 
+---
+
+## 🧠 Areas of Interest
+
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI & Large Language Models
+- Computer Vision
+- Machine Learning Systems
+- MLOps & AI Infrastructure
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning Architectures
+- Large Language Models (LLMs)
+- Model Deployment and Production ML
+- Software Engineering for AI Systems
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Domain |
+|---|---|
+| Student Price Prediction | Machine Learning |
+| AI-Powered Meeting Summarizer | NLP / Generative AI |
+| Deepfake Image Detection | Deep Learning / Computer Vision |
+
+*Detailed project documentation and source code is added.*
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/itskusal7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+I'm always interested in connecting with people working in AI, Machine Learning, and technology.
+
+
+
+
+
+
+
