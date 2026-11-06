@@ -1,3 +1,13 @@
+<p align="center">
+  <img
+    src="assets/github-banner.png"
+    width="100%"
+    alt="Kushal Sapkota - AI and Machine Learning Graduate"
+  />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Kushal Sapkota</h1>
 
 <h3 align="center">
